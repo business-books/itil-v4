@@ -1,4 +1,4 @@
-This year, the most serious update of the library for IT process management in eight years is expected — the release of ITIL 4. I will tell you about the changes.
+This year, the most serious update of the library for IT process management in eight years is expected — the release of <a href="https://e-book.business/itil-foundation-4th-edition/">ITIL v4 PDF</a>. I will tell you about the changes.
 
 What is ITIL
 
